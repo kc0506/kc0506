@@ -1,4 +1,4 @@
 
-A bachelor student from NTU majoring in medicine and CS.
+A bachelor student from National Taiwan University majoring in medicine and CS.
 
 
