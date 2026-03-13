@@ -1,4 +1,1 @@
-
-A bachelor student from National Taiwan University majoring in medicine and CS.
-
-
+Medicine and Computer Science student at National Taiwan University
